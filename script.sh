@@ -7,6 +7,7 @@
 ###yessssssssssssssssssssssssssssssssssssssssssssssssssssssss
 ###Great engineers to be
 ### New changes done by Ike
+# It will end in praise, Amen. #NSSPD
 set -x
 
 # create deployment directory
