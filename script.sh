@@ -6,7 +6,7 @@
 ###Helloooooooooooooooooooooooooooooooooooooooooooooooooooo
 ###yessssssssssssssssssssssssssssssssssssssssssssssssssssssss
 ###Great engineers to be
-### New changes done by Ike:wq!
+### New changes done by Ike
 set -x
 
 # create deployment directory
